@@ -447,11 +447,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 75
+    m_FontSize: 50
     m_FontStyle: 1
     m_BestFit: 0
-    m_MinSize: 3
-    m_MaxSize: 145
+    m_MinSize: 0
+    m_MaxSize: 300
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -606,11 +606,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 75
+    m_FontSize: 50
     m_FontStyle: 1
     m_BestFit: 0
-    m_MinSize: 3
-    m_MaxSize: 145
+    m_MinSize: 0
+    m_MaxSize: 300
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -860,11 +860,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 75
+    m_FontSize: 50
     m_FontStyle: 1
     m_BestFit: 0
-    m_MinSize: 3
-    m_MaxSize: 145
+    m_MinSize: 0
+    m_MaxSize: 300
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -1295,73 +1295,73 @@ MonoBehaviour:
   - Question: Is cluster analysis (or clustering) a supervised or unsupervised machine
       learning task?
     Answers:
-    - Supervised
-    - Unsupervised
-    - Both
-    - Neither
+    - Supervised.
+    - Unsupervised.
+    - Both.
+    - Neither.
     CorrectAnswer: 2
   - Question: Which of these is not a clustering technique?
     Answers:
-    - Density based techniques
-    - K-means
-    - Linear regression
-    - Gaussian Mixture models
+    - Density based techniques.
+    - K-means.
+    - Linear regression.
+    - Gaussian Mixture models.
     CorrectAnswer: 3
   - Question: "What does the \u201CK\u201D in the K-means technique mean?"
     Answers:
-    - The number of centroids you need in the dataset
-    - The number of groups you divide the data in (number of clusters)
-    - "Both of these are correct \uF0FC"
-    - Neither of these are correct
+    - The number of centroids you need in the dataset.
+    - The number of groups you divide the data in (number of clusters).
+    - "Both of these are correct. \uF0FC"
+    - Neither of these are correct.
     CorrectAnswer: 3
   - Question: Which is the most used clustering technique?
     Answers:
-    - Hierarchical clustering
-    - Spectral Clustering
-    - Agglomerative Clustering
-    - 'K-means clustering '
+    - Hierarchical clustering.
+    - Spectral Clustering.
+    - Agglomerative Clustering.
+    - 'K-means clustering. '
     CorrectAnswer: 4
-  - Question: Which of these is not a wat to decide on how to cluster?
+  - Question: Which of these is not a way to decide on how to cluster?
     Answers:
-    - Single linkage clustering
-    - Average linkage clustering
-    - 'Median linkage clustering '
-    - Ward clustering
+    - Single linkage clustering.
+    - Average linkage clustering.
+    - 'Median linkage clustering. '
+    - Ward clustering.
     CorrectAnswer: 3
   - Question: What is the goal of clustering?
     Answers:
-    - "Divide the data into groups \uF0FC"
-    - Classify the data into different classes
-    - 'Predict the output values of input data points '
-    - All of the above
+    - "Divide the data into groups.\uF0FC"
+    - Classify the data into different classes.
+    - 'Predict the output values of input data points. '
+    - All of the above.
     CorrectAnswer: 4
   - Question: Which data type is not required for clustering?
     Answers:
-    - Labeled data
-    - Unlabeled data
-    - Numerical data
-    - Categorical data
+    - Labeled data.
+    - Unlabeled data.
+    - Numerical data.
+    - Categorical data.
     CorrectAnswer: 1
   - Question: What is the final output of Hierarchical clustering?
     Answers:
-    - The number of cluster centroids
-    - "The tree representing how close the data points are to each other \uF0FC"
-    - A map defining the similar data points into individual groups
-    - All of the above
+    - The number of cluster centroids.
+    - "The tree representing how close the data points are to each other. \uF0FC"
+    - A map defining the similar data points into individual groups.
+    - All of the above.
     CorrectAnswer: 2
   - Question: Which of the following sentences is not true?
     Answers:
-    - K-means clustering tries to group n observations into k clusters
-    - 'K-nearest neighbors is the same as K-means '
-    - K-means clustering is a vector quantization method
-    - Clusters are always convex in space
+    - K-means clustering tries to group n observations into k clusters.
+    - 'K-nearest neighbors is the same as K-means. '
+    - K-means clustering is a vector quantization method.
+    - Clusters are always convex in space.
     CorrectAnswer: 2
-  - Question: What is a dendrogram?
+  - Question: What is a dendrogram?.
     Answers:
-    - "A hierarchical structure \uF0FC"
-    - A diagram structure
-    - A graph structure
-    - None of these
+    - "A hierarchical structure.\uF0FC"
+    - A diagram structure.
+    - A graph structure.
+    - None of these.
     CorrectAnswer: 1
   options:
   - {fileID: 1356440139}
@@ -2267,11 +2267,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 75
+    m_FontSize: 50
     m_FontStyle: 1
     m_BestFit: 0
-    m_MinSize: 3
-    m_MaxSize: 145
+    m_MinSize: 0
+    m_MaxSize: 300
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
